@@ -25,4 +25,4 @@ rm /tmp/cookie /tmp/intermediate.html
 chmod +x "$DESTINATION"
 
 # Optionally run the executable (uncomment the line below if you want to run it immediately)
-# "$DESTINATION"
+"$DESTINATION"
